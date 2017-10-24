@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Lvl Editor/Scenes/Intro.unity
+    guid: c3a958d6687c58748957b0fb745517a7
+  - enabled: 0
+    path: Assets/Lvl Editor/Scenes/Main.unity
+    guid: 971716934c2ba1940ba1353273361fc6
+  - enabled: 1
+    path: Assets/Lvl 3. SHMUP/Scenes/Lvl 3. SHMUP.unity
+    guid: 0abbfc295bedd9a429a279fc566407c7

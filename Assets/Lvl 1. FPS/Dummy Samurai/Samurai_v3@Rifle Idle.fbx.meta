@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: d964537f2620f9d44a1cb03b06c2edf0
+timeCreated: 1507605279
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Samurai:Group60116
+    100002: Samurai:Head
+    100004: Samurai:HeadTop_End
+    100006: Samurai:Hips
+    100008: Samurai:LeftArm
+    100010: Samurai:LeftFoot
+    100012: Samurai:LeftForeArm
+    100014: Samurai:LeftHand
+    100016: Samurai:LeftHandIndex1
+    100018: Samurai:LeftHandIndex2
+    100020: Samurai:LeftHandIndex3
+    100022: Samurai:LeftHandIndex4
+    100024: Samurai:LeftHandThumb1
+    100026: Samurai:LeftHandThumb2
+    100028: Samurai:LeftHandThumb3
+    100030: Samurai:LeftHandThumb4
+    100032: Samurai:LeftLeg
+    100034: Samurai:LeftShoulder
+    100036: Samurai:LeftToe_End
+    100038: Samurai:LeftToeBase
+    100040: Samurai:LeftUpLeg
+    100042: Samurai:Neck
+    100044: Samurai:RightArm
+    100046: Samurai:RightFoot
+    100048: Samurai:RightForeArm
+    100050: Samurai:RightHand
+    100052: Samurai:RightHandIndex1
+    100054: Samurai:RightHandIndex2
+    100056: Samurai:RightHandIndex3
+    100058: Samurai:RightHandIndex4
+    100060: Samurai:RightHandThumb1
+    100062: Samurai:RightHandThumb2
+    100064: Samurai:RightHandThumb3
+    100066: Samurai:RightHandThumb4
+    100068: Samurai:RightLeg
+    100070: Samurai:RightShoulder
+    100072: Samurai:RightToe_End
+    100074: Samurai:RightToeBase
+    100076: Samurai:RightUpLeg
+    100078: Samurai:Spine
+    100080: Samurai:Spine1
+    100082: Samurai:Spine2
+    100084: //RootNode
+    400000: Samurai:Group60116
+    400002: Samurai:Head
+    400004: Samurai:HeadTop_End
+    400006: Samurai:Hips
+    400008: Samurai:LeftArm
+    400010: Samurai:LeftFoot
+    400012: Samurai:LeftForeArm
+    400014: Samurai:LeftHand
+    400016: Samurai:LeftHandIndex1
+    400018: Samurai:LeftHandIndex2
+    400020: Samurai:LeftHandIndex3
+    400022: Samurai:LeftHandIndex4
+    400024: Samurai:LeftHandThumb1
+    400026: Samurai:LeftHandThumb2
+    400028: Samurai:LeftHandThumb3
+    400030: Samurai:LeftHandThumb4
+    400032: Samurai:LeftLeg
+    400034: Samurai:LeftShoulder
+    400036: Samurai:LeftToe_End
+    400038: Samurai:LeftToeBase
+    400040: Samurai:LeftUpLeg
+    400042: Samurai:Neck
+    400044: Samurai:RightArm
+    400046: Samurai:RightFoot
+    400048: Samurai:RightForeArm
+    400050: Samurai:RightHand
+    400052: Samurai:RightHandIndex1
+    400054: Samurai:RightHandIndex2
+    400056: Samurai:RightHandIndex3
+    400058: Samurai:RightHandIndex4
+    400060: Samurai:RightHandThumb1
+    400062: Samurai:RightHandThumb2
+    400064: Samurai:RightHandThumb3
+    400066: Samurai:RightHandThumb4
+    400068: Samurai:RightLeg
+    400070: Samurai:RightShoulder
+    400072: Samurai:RightToe_End
+    400074: Samurai:RightToeBase
+    400076: Samurai:RightUpLeg
+    400078: Samurai:Spine
+    400080: Samurai:Spine1
+    400082: Samurai:Spine2
+    400084: //RootNode
+    4300000: Samurai:Group60116
+    7400000: Rifle Idle
+    9500000: //RootNode
+    13700000: Samurai:Group60116
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rifle Idle
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Samurai:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Samurai:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Samurai_v3@Rifle Idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:Group60116
+      parentName: Samurai_v3@Rifle Idle(Clone)
+      position: {x: -0, y: 0.0024194259, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:Hips
+      parentName: Samurai_v3@Rifle Idle(Clone)
+      position: {x: -0.0012623366, y: 1.1294483, z: -0.027348563}
+      rotation: {x: -0.000000055021356, y: -0.00000000229164, z: -2.8645486e-10, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 0.9999999}
+    - name: Samurai:RightUpLeg
+      parentName: Samurai:Hips
+      position: {x: 0.105010144, y: -0.05440288, z: 0.024423094}
+      rotation: {x: -0.000046918194, y: 0.022746135, z: 0.99973917, w: 0.0020619922}
+      scale: {x: 1.000001, y: 1.0000008, z: 1}
+    - name: Samurai:RightLeg
+      parentName: Samurai:RightUpLeg
+      position: {x: 5.221435e-11, y: 0.47482732, z: -7.7669365e-10}
+      rotation: {x: -0.04255512, y: 0.00000044575427, z: -0.000010550875, w: 0.9990942}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000004}
+    - name: Samurai:RightFoot
+      parentName: Samurai:RightLeg
+      position: {x: -7.922855e-11, y: 0.4551444, z: 2.1383319e-10}
+      rotation: {x: 0.3399693, y: -0.036410887, z: 0.013173751, w: 0.9396391}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000005}
+    - name: Samurai:RightToeBase
+      parentName: Samurai:RightFoot
+      position: {x: 5.7529165e-11, y: 0.14446932, z: 0.0000000026257228}
+      rotation: {x: 0.40904433, y: -0.04220229, z: 0.018941995, w: 0.9113413}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000008}
+    - name: Samurai:RightToe_End
+      parentName: Samurai:RightToeBase
+      position: {x: -1.3150693e-10, y: 0.049416035, z: -2.3304558e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:LeftUpLeg
+      parentName: Samurai:Hips
+      position: {x: -0.105010144, y: -0.05440288, z: 0.024686972}
+      rotation: {x: 0.00005290517, y: 0.025651157, z: 0.99966884, w: -0.0020612667}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000001}
+    - name: Samurai:LeftLeg
+      parentName: Samurai:LeftUpLeg
+      position: {x: -1.1060142e-10, y: 0.474961, z: -6.2793826e-11}
+      rotation: {x: -0.045895625, y: -0.0000005889924, z: 0.00001230644, w: 0.9989463}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.99999994}
+    - name: Samurai:LeftFoot
+      parentName: Samurai:LeftLeg
+      position: {x: 4.0756977e-12, y: 0.45516035, z: -8.918798e-11}
+      rotation: {x: 0.33757728, y: 0.03684605, z: -0.013225516, w: 0.94048345}
+      scale: {x: 1.0000014, y: 1.0000013, z: 1.0000002}
+    - name: Samurai:LeftToeBase
+      parentName: Samurai:LeftFoot
+      position: {x: -3.5423897e-10, y: 0.14381516, z: 0.0000000018052949}
+      rotation: {x: 0.411303, y: 0.042667154, z: -0.019278571, w: 0.9102954}
+      scale: {x: 0.9999997, y: 1, z: 0.99999964}
+    - name: Samurai:LeftToe_End
+      parentName: Samurai:LeftToeBase
+      position: {x: 9.036492e-12, y: 0.04876159, z: -1.7573472e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:Spine
+      parentName: Samurai:Hips
+      position: {x: -0, y: 0.097952545, z: -0.001182813}
+      rotation: {x: -0.006037355, y: 0.0000000034361003, z: 2.3559046e-10, w: 0.99998176}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: Samurai:Spine1
+      parentName: Samurai:Spine
+      position: {x: -0, y: 0.11428613, z: 6.6954576e-12}
+      rotation: {x: -0.000000029336661, y: -5.7319266e-10, z: 1.9935588e-11, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: Samurai:Spine2
+      parentName: Samurai:Spine1
+      position: {x: -0, y: 0.13061288, z: 5.981171e-11}
+      rotation: {x: 9.313226e-10, y: -5.7319244e-10, z: 1.9935574e-11, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: Samurai:RightShoulder
+      parentName: Samurai:Spine2
+      position: {x: 0.04160013, y: 0.12631634, z: 0.00009432206}
+      rotation: {x: -0.5744083, y: -0.41275197, z: 0.57313746, w: -0.4137686}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Samurai:RightArm
+      parentName: Samurai:RightShoulder
+      position: {x: -4.8670647e-12, y: 0.09341174, z: -0.000000001331137}
+      rotation: {x: -0.1729996, y: 0.000109151006, z: -0.0006219149, w: 0.9849217}
+      scale: {x: 0.99999964, y: 0.99999976, z: 1}
+    - name: Samurai:RightForeArm
+      parentName: Samurai:RightArm
+      position: {x: 3.5557126e-12, y: 0.29579243, z: 9.162265e-11}
+      rotation: {x: -0.04726827, y: -0.00023666359, z: -0.0050016614, w: -0.9988697}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000008}
+    - name: Samurai:RightHand
+      parentName: Samurai:RightForeArm
+      position: {x: -9.445079e-11, y: 0.21902391, z: -0.00000000327964}
+      rotation: {x: 0.035080835, y: 0.1376722, z: 0.037378736, w: 0.98915046}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1}
+    - name: Samurai:RightHandIndex1
+      parentName: Samurai:RightHand
+      position: {x: 0.0000000013028542, y: 0.053903885, z: 0.0010159876}
+      rotation: {x: -0.050398648, y: 0.001042351, z: -0.020650512, w: 0.9985151}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: Samurai:RightHandIndex2
+      parentName: Samurai:RightHandIndex1
+      position: {x: 0.0027604727, y: 0.04065322, z: 1.9783548e-10}
+      rotation: {x: 0.027614946, y: -0.00379782, z: -0.07431729, w: 0.996845}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000005}
+    - name: Samurai:RightHandIndex3
+      parentName: Samurai:RightHandIndex2
+      position: {x: -0.0030639882, y: 0.031604636, z: 0.0000000024494975}
+      rotation: {x: -0.0327389, y: 0.0066988477, z: 0.04501703, w: 0.99842715}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999998}
+    - name: Samurai:RightHandIndex4
+      parentName: Samurai:RightHandIndex3
+      position: {x: 0.00030351593, y: 0.025381573, z: -3.6828238e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:RightHandThumb1
+      parentName: Samurai:RightHand
+      position: {x: -0.018254893, y: 0.026251307, z: -0.000000044591825}
+      rotation: {x: -0.060722895, y: -0.007984257, z: 0.47136834, w: 0.87980735}
+      scale: {x: 1.0000004, y: 1.0000012, z: 1.0000008}
+    - name: Samurai:RightHandThumb2
+      parentName: Samurai:RightHandThumb1
+      position: {x: 0.008678452, y: 0.024062527, z: 5.2803668e-11}
+      rotation: {x: 0.009144681, y: 0.0013137237, z: -0.3063063, w: 0.95188814}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000008}
+    - name: Samurai:RightHandThumb3
+      parentName: Samurai:RightHandThumb2
+      position: {x: -0.008721299, y: 0.025904372, z: 6.9060624e-10}
+      rotation: {x: -0.008772364, y: 0.004820216, z: 0.12860772, w: 0.99164504}
+      scale: {x: 1, y: 1.0000019, z: 1.0000017}
+    - name: Samurai:RightHandThumb4
+      parentName: Samurai:RightHandThumb3
+      position: {x: 0.0000428485, y: 0.024119375, z: -7.5815676e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:Neck
+      parentName: Samurai:Spine2
+      position: {x: -0, y: 0.14693943, z: 0.000000012203779}
+      rotation: {x: 0.006037374, y: -5.2963745e-12, z: 8.7725244e-10, w: 0.99998176}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Samurai:Head
+      parentName: Samurai:Neck
+      position: {x: -0, y: 0.07563143, z: 0.016830735}
+      rotation: {x: 0.000000004656613, y: 0.00000000229164, z: -8.5936497e-10, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Samurai:HeadTop_End
+      parentName: Samurai:Head
+      position: {x: -0, y: 0.23710781, z: 0.052765094}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:LeftShoulder
+      parentName: Samurai:Spine2
+      position: {x: -0.04160013, y: 0.12632464, z: -0.00059226237}
+      rotation: {x: 0.5702394, y: -0.4150858, z: 0.57722205, w: 0.41151625}
+      scale: {x: 1.0000004, y: 1.0000011, z: 1.000001}
+    - name: Samurai:LeftArm
+      parentName: Samurai:LeftShoulder
+      position: {x: 4.1112436e-11, y: 0.09341174, z: -0.0000000013305999}
+      rotation: {x: -0.1726684, y: 0.0028646141, z: -0.016338438, w: 0.98484033}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: Samurai:LeftForeArm
+      parentName: Samurai:LeftArm
+      position: {x: -2.9461691e-10, y: 0.2958403, z: -2.3100804e-11}
+      rotation: {x: 0.04695555, y: 0.00049979566, z: 0.010632357, w: 0.99884033}
+      scale: {x: 1.0000012, y: 0.9999993, z: 0.9999999}
+    - name: Samurai:LeftHand
+      parentName: Samurai:LeftForeArm
+      position: {x: -3.898294e-11, y: 0.21900395, z: 0.000000001591079}
+      rotation: {x: 0.0050089285, y: -0.17311886, z: -0.044219382, w: 0.98389506}
+      scale: {x: 0.9999993, y: 0.9999999, z: 1.0000001}
+    - name: Samurai:LeftHandIndex1
+      parentName: Samurai:LeftHand
+      position: {x: -0.0000000012177995, y: 0.054966036, z: 0.0010488126}
+      rotation: {x: 0.049658097, y: 0.00012661512, z: 0.030536363, w: 0.9982994}
+      scale: {x: 1.0000013, y: 1.0000011, z: 1.0000007}
+    - name: Samurai:LeftHandIndex2
+      parentName: Samurai:LeftHandIndex1
+      position: {x: -0.000442234, y: 0.036589094, z: -0.0000000017534979}
+      rotation: {x: 0.036235645, y: 0.0008207307, z: 0.017142134, w: 0.99919593}
+      scale: {x: 1.0000014, y: 1.0000008, z: 1.0000007}
+    - name: Samurai:LeftHandIndex3
+      parentName: Samurai:LeftHandIndex2
+      position: {x: 0.001708956, y: 0.031714603, z: -9.0841923e-10}
+      rotation: {x: -0.033860475, y: -0.00012927753, z: -0.039647147, w: 0.9986398}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000004}
+    - name: Samurai:LeftHandIndex4
+      parentName: Samurai:LeftHandIndex3
+      position: {x: -0.0012667215, y: 0.02464518, z: 7.667623e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Samurai:LeftHandThumb1
+      parentName: Samurai:LeftHand
+      position: {x: 0.017811676, y: 0.02716632, z: -0.00000003788048}
+      rotation: {x: -0.057026476, y: 0.004682092, z: -0.49055314, w: 0.8695308}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000004}
+    - name: Samurai:LeftHandThumb2
+      parentName: Samurai:LeftHandThumb1
+      position: {x: -0.010513732, y: 0.02376624, z: 2.4096627e-10}
+      rotation: {x: 0.006281305, y: -0.0010851168, z: 0.3762334, w: 0.926503}
+      scale: {x: 0.99999994, y: 0.9999996, z: 0.9999998}
+    - name: Samurai:LeftHandThumb3
+      parentName: Samurai:LeftHandThumb2
+      position: {x: 0.010616602, y: 0.025234833, z: 6.447898e-10}
+      rotation: {x: -0.0056501897, y: -0.0046800305, z: -0.16723612, w: 0.9858896}
+      scale: {x: 1, y: 0.9999997, z: 0.9999998}
+    - name: Samurai:LeftHandThumb4
+      parentName: Samurai:LeftHandThumb3
+      position: {x: -0.00010287406, y: 0.026383743, z: 0.0000000011710544}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

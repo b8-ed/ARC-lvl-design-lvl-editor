@@ -1,0 +1,2836 @@
+fileFormatVersion: 2
+guid: a482c894ebf0b6945ba6e202980d15ac
+timeCreated: 1508866981
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SHT_SpaceShooterEdited_0
+    21300002: SHT_SpaceShooterEdited_1
+    21300004: SHT_SpaceShooterEdited_2
+    21300006: SHT_SpaceShooterEdited_3
+    21300008: SHT_SpaceShooterEdited_4
+    21300010: SHT_SpaceShooterEdited_5
+    21300012: SHT_SpaceShooterEdited_6
+    21300014: SHT_SpaceShooterEdited_7
+    21300016: SHT_SpaceShooterEdited_8
+    21300018: SHT_SpaceShooterEdited_9
+    21300020: SHT_SpaceShooterEdited_10
+    21300022: SHT_SpaceShooterEdited_11
+    21300024: SHT_SpaceShooterEdited_12
+    21300026: SHT_SpaceShooterEdited_13
+    21300028: SHT_SpaceShooterEdited_14
+    21300030: SHT_SpaceShooterEdited_15
+    21300032: SHT_SpaceShooterEdited_16
+    21300034: SHT_SpaceShooterEdited_17
+    21300036: SHT_SpaceShooterEdited_18
+    21300038: SHT_SpaceShooterEdited_19
+    21300040: SHT_SpaceShooterEdited_20
+    21300042: SHT_SpaceShooterEdited_21
+    21300044: SHT_SpaceShooterEdited_22
+    21300046: SHT_SpaceShooterEdited_23
+    21300048: SHT_SpaceShooterEdited_24
+    21300050: SHT_SpaceShooterEdited_25
+    21300052: SHT_SpaceShooterEdited_26
+    21300054: SHT_SpaceShooterEdited_27
+    21300056: SHT_SpaceShooterEdited_28
+    21300058: SHT_SpaceShooterEdited_29
+    21300060: SHT_SpaceShooterEdited_30
+    21300062: SHT_SpaceShooterEdited_31
+    21300064: SHT_SpaceShooterEdited_32
+    21300066: SHT_SpaceShooterEdited_33
+    21300068: SHT_SpaceShooterEdited_34
+    21300070: SHT_SpaceShooterEdited_35
+    21300072: SHT_SpaceShooterEdited_36
+    21300074: SHT_SpaceShooterEdited_37
+    21300076: SHT_SpaceShooterEdited_38
+    21300078: SHT_SpaceShooterEdited_39
+    21300080: SHT_SpaceShooterEdited_40
+    21300082: SHT_SpaceShooterEdited_41
+    21300084: SHT_SpaceShooterEdited_42
+    21300086: SHT_SpaceShooterEdited_43
+    21300088: SHT_SpaceShooterEdited_44
+    21300090: SHT_SpaceShooterEdited_45
+    21300092: SHT_SpaceShooterEdited_46
+    21300094: SHT_SpaceShooterEdited_47
+    21300096: SHT_SpaceShooterEdited_48
+    21300098: SHT_SpaceShooterEdited_49
+    21300100: SHT_SpaceShooterEdited_50
+    21300102: SHT_SpaceShooterEdited_51
+    21300104: SHT_SpaceShooterEdited_52
+    21300106: SHT_SpaceShooterEdited_53
+    21300108: SHT_SpaceShooterEdited_54
+    21300110: SHT_SpaceShooterEdited_55
+    21300112: SHT_SpaceShooterEdited_56
+    21300114: SHT_SpaceShooterEdited_57
+    21300116: SHT_SpaceShooterEdited_58
+    21300118: SHT_SpaceShooterEdited_59
+    21300120: SHT_SpaceShooterEdited_60
+    21300122: SHT_SpaceShooterEdited_61
+    21300124: SHT_SpaceShooterEdited_62
+    21300126: SHT_SpaceShooterEdited_63
+    21300128: SHT_SpaceShooterEdited_64
+    21300130: SHT_SpaceShooterEdited_65
+    21300132: SHT_SpaceShooterEdited_66
+    21300134: SHT_SpaceShooterEdited_67
+    21300136: SHT_SpaceShooterEdited_68
+    21300138: SHT_SpaceShooterEdited_69
+    21300140: SHT_SpaceShooterEdited_70
+    21300142: SHT_SpaceShooterEdited_71
+    21300144: SHT_SpaceShooterEdited_72
+    21300146: SHT_SpaceShooterEdited_73
+    21300148: SHT_SpaceShooterEdited_74
+    21300150: SHT_SpaceShooterEdited_75
+    21300152: SHT_SpaceShooterEdited_76
+    21300154: SHT_SpaceShooterEdited_77
+    21300156: SHT_SpaceShooterEdited_78
+    21300158: SHT_SpaceShooterEdited_79
+    21300160: SHT_SpaceShooterEdited_80
+    21300162: SHT_SpaceShooterEdited_81
+    21300164: SHT_SpaceShooterEdited_82
+    21300166: SHT_SpaceShooterEdited_83
+    21300168: SHT_SpaceShooterEdited_84
+    21300170: SHT_SpaceShooterEdited_85
+    21300172: SHT_SpaceShooterEdited_86
+    21300174: SHT_SpaceShooterEdited_87
+    21300176: SHT_SpaceShooterEdited_88
+    21300178: SHT_SpaceShooterEdited_89
+    21300180: SHT_SpaceShooterEdited_90
+    21300182: SHT_SpaceShooterEdited_91
+    21300184: SHT_SpaceShooterEdited_92
+    21300186: SHT_SpaceShooterEdited_93
+    21300188: SHT_SpaceShooterEdited_94
+    21300190: SHT_SpaceShooterEdited_95
+    21300192: SHT_SpaceShooterEdited_96
+    21300194: SHT_SpaceShooterEdited_97
+    21300196: SHT_SpaceShooterEdited_98
+    21300198: SHT_SpaceShooterEdited_99
+    21300200: SHT_SpaceShooterEdited_100
+    21300202: SHT_SpaceShooterEdited_101
+    21300204: SHT_SpaceShooterEdited_102
+    21300206: SHT_SpaceShooterEdited_103
+    21300208: SHT_SpaceShooterEdited_104
+    21300210: SHT_SpaceShooterEdited_105
+    21300212: SHT_SpaceShooterEdited_106
+    21300214: SHT_SpaceShooterEdited_107
+    21300216: SHT_SpaceShooterEdited_108
+    21300218: SHT_SpaceShooterEdited_109
+    21300220: SHT_SpaceShooterEdited_110
+    21300222: SHT_SpaceShooterEdited_111
+    21300224: SHT_SpaceShooterEdited_112
+    21300226: SHT_SpaceShooterEdited_113
+    21300228: SHT_SpaceShooterEdited_114
+    21300230: SHT_SpaceShooterEdited_115
+    21300232: SHT_SpaceShooterEdited_116
+    21300234: SHT_SpaceShooterEdited_117
+    21300236: SHT_SpaceShooterEdited_118
+    21300238: SHT_SpaceShooterEdited_119
+    21300240: SHT_SpaceShooterEdited_120
+    21300242: SHT_SpaceShooterEdited_121
+    21300244: SHT_SpaceShooterEdited_122
+    21300246: SHT_SpaceShooterEdited_123
+    21300248: SHT_SpaceShooterEdited_124
+    21300250: SHT_SpaceShooterEdited_125
+    21300252: SHT_SpaceShooterEdited_126
+    21300254: SHT_SpaceShooterEdited_127
+    21300256: SHT_SpaceShooterEdited_128
+    21300258: SHT_SpaceShooterEdited_129
+    21300260: SHT_SpaceShooterEdited_130
+    21300262: SHT_SpaceShooterEdited_131
+    21300264: SHT_SpaceShooterEdited_132
+    21300266: SHT_SpaceShooterEdited_133
+    21300268: SHT_SpaceShooterEdited_134
+    21300270: SHT_SpaceShooterEdited_135
+    21300272: SHT_SpaceShooterEdited_136
+    21300274: SHT_SpaceShooterEdited_137
+    21300276: SHT_SpaceShooterEdited_138
+    21300278: SHT_SpaceShooterEdited_139
+    21300280: SHT_SpaceShooterEdited_140
+    21300282: SHT_SpaceShooterEdited_141
+    21300284: SHT_SpaceShooterEdited_142
+    21300286: SHT_SpaceShooterEdited_143
+    21300288: SHT_SpaceShooterEdited_144
+    21300290: SHT_SpaceShooterEdited_145
+    21300292: SHT_SpaceShooterEdited_146
+    21300294: SHT_SpaceShooterEdited_147
+    21300296: SHT_SpaceShooterEdited_148
+    21300298: SHT_SpaceShooterEdited_149
+    21300300: SHT_SpaceShooterEdited_150
+    21300302: SHT_SpaceShooterEdited_151
+    21300304: SHT_SpaceShooterEdited_152
+    21300306: SHT_SpaceShooterEdited_153
+    21300308: SHT_SpaceShooterEdited_154
+    21300310: SHT_SpaceShooterEdited_155
+    21300312: SHT_SpaceShooterEdited_156
+    21300314: SHT_SpaceShooterEdited_157
+    21300316: SHT_SpaceShooterEdited_158
+    21300318: SHT_SpaceShooterEdited_159
+    21300320: SHT_SpaceShooterEdited_160
+    21300322: SHT_SpaceShooterEdited_161
+    21300324: SHT_SpaceShooterEdited_162
+    21300326: SHT_SpaceShooterEdited_163
+    21300328: SHT_SpaceShooterEdited_164
+    21300330: SHT_SpaceShooterEdited_165
+    21300332: SHT_SpaceShooterEdited_166
+    21300334: SHT_SpaceShooterEdited_167
+    21300336: SHT_SpaceShooterEdited_168
+    21300338: SHT_SpaceShooterEdited_169
+    21300340: SHT_SpaceShooterEdited_170
+    21300342: SHT_SpaceShooterEdited_171
+    21300344: SHT_SpaceShooterEdited_172
+    21300346: SHT_SpaceShooterEdited_173
+    21300348: SHT_SpaceShooterEdited_174
+    21300350: SHT_SpaceShooterEdited_175
+    21300352: SHT_SpaceShooterEdited_176
+    21300354: SHT_SpaceShooterEdited_177
+    21300356: SHT_SpaceShooterEdited_178
+    21300358: SHT_SpaceShooterEdited_LEftWIng
+    21300360: SHT_SpaceShooterEdited_RightWing
+    21300362: SHT_SpaceShooterEdited_CEnter
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 365
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 51, y: 58, z: 62, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 292
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 292
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 292
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 292
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 293
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 295
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 263
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 263
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 274
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 275
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 280
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 275
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 274
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 274
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 274
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 279
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 278
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 277
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 276
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 275
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_31
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 274
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_34
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 274
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 263
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 263
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 263
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 263
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 255
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 256
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 252
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_55
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 252
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_56
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 252
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_57
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_58
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 254
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_59
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 255
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 254
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_62
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 254
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_63
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 255
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_64
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 254
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_71
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_72
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_73
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 233
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_75
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 238
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_76
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 233
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_78
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 235
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_79
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 235
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_82
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 512
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_84
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_85
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_86
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 217
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 253
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 120
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 119
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 123
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_95
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 119
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_97
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_98
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 123
+        width: 262
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_99
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 92
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_100
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 92
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_103
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_104
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 98
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_105
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 97
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 96
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 97
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_109
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_110
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 101
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_111
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 105
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_112
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_113
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_115
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_116
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_118
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_119
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 77
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_120
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_122
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 78
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_123
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_124
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_126
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 77
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_127
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 79
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_129
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 55
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_130
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 55
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_131
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 70
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_132
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_133
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 57
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_134
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_135
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_136
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 56
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 55
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_138
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_140
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 57
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_141
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 58
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_142
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 62
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 115
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_148
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_149
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_150
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_151
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_152
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_153
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_154
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_155
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_156
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_157
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_158
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_159
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_160
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_162
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_163
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_164
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 42
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_165
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 42
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_166
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_167
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 21
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_168
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_169
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_170
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_171
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_172
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_173
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 4
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_174
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 27
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_175
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 24
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_176
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_177
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 35
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_178
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_LEftWIng
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 448
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_RightWing
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 448
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SHT_SpaceShooterEdited_CEnter
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 447
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
