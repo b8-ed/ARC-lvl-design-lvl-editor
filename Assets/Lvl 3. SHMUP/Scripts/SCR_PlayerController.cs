@@ -11,6 +11,8 @@ public class SCR_PlayerController : MonoBehaviour {
     public int velocity;
     public float coolDown;
 
+    private bool canShoot;
+
     private Rigidbody2D rb2DPlayer;
 
 	void Start ()
@@ -25,4 +27,12 @@ public class SCR_PlayerController : MonoBehaviour {
         Vector2 movement = new Vector2(x, y);
         transform.Translate(movement * Time.deltaTime * velocity);
 	}
+
+    public void Shoot()
+    {
+        if(canShoot)
+        {
+
+        }
+    }
 }
