@@ -10,14 +10,14 @@ public class SCR_ChangeCrossHairSprite : MonoBehaviour {
 
     Image IMG_CrossHair;
 
-	void Start () {
-        IMG_CrossHair = GetComponent<Image>();	
+	void Start () 
+    {
+        IMG_CrossHair = GetComponent<Image>();
 	}
 	
-
 	void Update ()
     {
-		if(Input.GetMouseButton(0))
+        if (Input.GetMouseButton(0))
         {
             IMG_CrossHair.sprite = SPR_ShootingCrossHair;
         }

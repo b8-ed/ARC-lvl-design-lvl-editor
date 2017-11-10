@@ -9,6 +9,7 @@ public class SCR_FPSPlayerController : MonoBehaviour {
     private Rigidbody playerRB;
 
     private bool isCursorLocked = false;
+    private bool isGrounded = true;
 
     void Start ()
     {
@@ -18,6 +19,12 @@ public class SCR_FPSPlayerController : MonoBehaviour {
     void Update ()
     {
         PlayerMovement();
+
+        if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        {
+            playerRB.AddForce(transform.up * 5f, ForceMode.Impulse);
+            isGrounded = false;
+        }
     }
 
     private void PlayerMovement()

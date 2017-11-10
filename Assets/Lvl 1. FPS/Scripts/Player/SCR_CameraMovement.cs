@@ -21,12 +21,11 @@ public class SCR_CameraMovement : MonoBehaviour {
 
     float rotationY = 0F;
 
-    // Use this for initialization
-    void Start () {
+    void Start ()
+    {
         weaponTransform = transform.parent.Find("Weapon");
 	}
-	
-	// Update is called once per frame
+
 	void Update ()
     {
         CameraMovement();
@@ -34,20 +33,25 @@ public class SCR_CameraMovement : MonoBehaviour {
 
     public void CameraMovement()
     {
-        //Movimiento Mouse
         if (axes == RotationAxes.MouseXAndY)
         {
             float rotationX = transform.parent.localEulerAngles.y + Input.GetAxis("Mouse X") * sensitivityX;
             rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
             rotationY = Mathf.Clamp(rotationY, minimumY, maximumY);
+
+            //Camera Y rotation
             transform.localEulerAngles = new Vector3(-rotationY, 0, 0);
+            //Weapon Y Rotation
             weaponTransform.localEulerAngles = new Vector3(-rotationY, 0, 0);
+            //Body X rotation
             transform.parent.localEulerAngles = new Vector3(0, rotationX, 0);
         }
+
         else if (axes == RotationAxes.MouseX)
         {
             transform.parent.Rotate(0, Input.GetAxis("Mouse X") * sensitivityX, 0);
         }
+
         else
         {
             rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
