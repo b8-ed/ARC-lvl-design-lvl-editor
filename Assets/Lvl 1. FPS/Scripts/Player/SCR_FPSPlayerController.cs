@@ -10,6 +10,7 @@ public class SCR_FPSPlayerController : MonoBehaviour {
 
     private bool isCursorLocked = false;
     private bool isGrounded = true;
+    private bool isJumping = false;
 
     void Start ()
     {
@@ -18,13 +19,19 @@ public class SCR_FPSPlayerController : MonoBehaviour {
 
     void Update ()
     {
+        InternalLockUpdate();
         PlayerMovement();
 
-        if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if(Input.GetKeyDown(KeyCode.Space) && !isJumping)
         {
-            playerRB.AddForce(transform.up * 5f, ForceMode.Impulse);
-            isGrounded = false;
+            JumpingMovement();
         }
+    }
+
+    private void JumpingMovement()
+    {
+        playerRB.AddForce(transform.up * 5f, ForceMode.Impulse);
+        isJumping = true;
     }
 
     private void PlayerMovement()
