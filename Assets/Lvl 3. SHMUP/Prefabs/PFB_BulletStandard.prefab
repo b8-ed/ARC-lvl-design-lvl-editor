@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 61016840887075962}
   - component: {fileID: 114280571772182660}
   m_Layer: 0
-  m_Name: PFB_Bullet
+  m_Name: PFB_BulletStandard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -100,6 +100,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   yForce: 50
+  damage: 0
+  coolDown: 0
 --- !u!212 &212463260016361080
 SpriteRenderer:
   m_ObjectHideFlags: 1

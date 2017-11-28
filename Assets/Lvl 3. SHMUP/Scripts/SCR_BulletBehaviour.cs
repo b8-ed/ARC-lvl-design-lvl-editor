@@ -5,6 +5,9 @@ using UnityEngine;
 public class SCR_BulletBehaviour : MonoBehaviour {
 
     public float yForce = 0.0f;
+    public float damage = 0.0f;
+    public float coolDown = 0.0f;
+
     private Rigidbody2D bulletRgbd2d;
 
 	// Use this for initialization

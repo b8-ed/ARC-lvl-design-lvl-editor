@@ -34,6 +34,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4334381809327154}
+  - component: {fileID: 95462832966736976}
   - component: {fileID: 212126976091919576}
   - component: {fileID: 50781077653648800}
   - component: {fileID: 61928323039983562}
@@ -117,6 +118,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!95 &95462832966736976
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1753093218532534}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c64cc91ac8ceff7429d7efd7a9d98284, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114442647073582872
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -131,7 +149,12 @@ MonoBehaviour:
   healthPoints: 100
   velocity: 7
   coolDown: 0.2
-  goBullet: {fileID: 1503855009274956, guid: d726dca58d6abd946abb5f2997d563f3, type: 2}
+  score: 0
+  isDead: 0
+  SLD_HP: {fileID: 0}
+  TXT_Score: {fileID: 0}
+  bulletTypeArrays:
+  - {fileID: 1503855009274956, guid: d726dca58d6abd946abb5f2997d563f3, type: 2}
   goBulletSpawn: {fileID: 1441220394770774}
 --- !u!212 &212126976091919576
 SpriteRenderer:
