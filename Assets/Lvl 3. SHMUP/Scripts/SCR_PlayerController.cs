@@ -15,6 +15,7 @@ public class SCR_PlayerController : MonoBehaviour
     [Header("Player UI")]
     public Slider SLD_HP;
     public Text TXT_Score;
+    public Text TXT_BulletType;
 
     [Header("Bullets")]
     public GameObject [] bulletTypeArray;
@@ -25,9 +26,15 @@ public class SCR_PlayerController : MonoBehaviour
     private Animator animPlayer;
     private int directionHash;
     private int isDeadHash;
+    private int bulletIndex;
 
 	void Start ()
     {
+        bulletIndex = 0;
+        coolDown = bulletTypeArray[bulletIndex].GetComponent<SCR_BulletBehaviour>().coolDown;
+        
+        TXT_BulletType.text = bulletIndex + "";
+
         rb2DPlayer = GetComponent<Rigidbody2D>();
         animPlayer = GetComponent<Animator>();
 
@@ -37,17 +44,23 @@ public class SCR_PlayerController : MonoBehaviour
 	
 	void Update ()
     {
-        if(!isDead)
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+            SwitchBulletType(-1);
+
+        if (Input.GetKeyDown(KeyCode.Alpha2))
+            SwitchBulletType(1);
+
+        if (!isDead)
         {
-            Shoot(bulletTypeArray[0]);
+            Shoot(bulletTypeArray[bulletIndex]);
             Movement();
         }
 
         Stats();
 
         if (Input.GetKeyDown(KeyCode.C))
-            TakeDamage(5);
-	}
+            TakeDamage(5); 
+    }
 
     public void Movement()
     {
@@ -67,15 +80,23 @@ public class SCR_PlayerController : MonoBehaviour
             if(Input.GetKeyDown(KeyCode.Space))
             {
                 Instantiate(_goBullet, goBulletSpawn.transform.position, Quaternion.identity);
-                Debug.Log("I am shooting");
+                //Debug.Log("I am shooting");
                 StartCoroutine(TurnOffCooldown());
             }
         }
     }
 
-    public void SwitchBulletType()
+    public void SwitchBulletType(int _arrayDirection)
     {
+        bulletIndex += _arrayDirection;
 
+        if (bulletIndex > bulletTypeArray.Length - 1)
+            bulletIndex = 0;
+        else if(bulletIndex < 0)
+            bulletIndex = bulletTypeArray.Length - 1;
+
+        TXT_BulletType.text = bulletIndex + "";
+        coolDown = bulletTypeArray[bulletIndex].GetComponent<SCR_BulletBehaviour>().coolDown;
     }
 
     public void Stats()

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.2257134, b: 0.30692226, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -787,7 +787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   materialIndex: 0
-  uvAnimationRotate: {x: 0, y: 1}
+  uvAnimationRotate: {x: 0, y: -1}
   textureName: _MainTex
   velocity: 0.25
 --- !u!1 &1118305671
@@ -858,11 +858,6 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 114442647073582872, guid: 9959c29b2c7cfa1419255a3ddb43e005,
-        type: 2}
-      propertyPath: bulletTypeArray.Array.size
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4334381809327154, guid: 9959c29b2c7cfa1419255a3ddb43e005, type: 2}
       propertyPath: m_LocalPosition.x
       value: -0
@@ -907,10 +902,9 @@ Prefab:
       objectReference: {fileID: 1446858803}
     - target: {fileID: 114442647073582872, guid: 9959c29b2c7cfa1419255a3ddb43e005,
         type: 2}
-      propertyPath: bulletTypeArray.Array.data[0]
+      propertyPath: TXT_BulletType
       value: 
-      objectReference: {fileID: 1503855009274956, guid: d726dca58d6abd946abb5f2997d563f3,
-        type: 2}
+      objectReference: {fileID: 1721036594}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9959c29b2c7cfa1419255a3ddb43e005, type: 2}
   m_IsPrefabParent: 0
@@ -1042,6 +1036,7 @@ RectTransform:
   - {fileID: 1627591226}
   - {fileID: 688868170}
   - {fileID: 1446858802}
+  - {fileID: 1721036593}
   m_Father: {fileID: 216212032}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1459,6 +1454,82 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &1721036592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1721036593}
+  - component: {fileID: 1721036595}
+  - component: {fileID: 1721036594}
+  m_Layer: 0
+  m_Name: TXT_BulletType
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1721036593
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1721036592}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1387953671}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -311, y: -198}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1721036594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1721036592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b069ef5c8c3c9654087d00a49a449ea1, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 30
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'HP
+
+'
+--- !u!222 &1721036595
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1721036592}
 --- !u!1 &1787655471
 GameObject:
   m_ObjectHideFlags: 0
