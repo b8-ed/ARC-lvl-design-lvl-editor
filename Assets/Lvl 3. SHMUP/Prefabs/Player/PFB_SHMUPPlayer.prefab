@@ -158,7 +158,9 @@ MonoBehaviour:
   - {fileID: 1503855009274956, guid: d726dca58d6abd946abb5f2997d563f3, type: 2}
   - {fileID: 1503855009274956, guid: 9ce67853426b76746ae3da98a0b5c7b4, type: 2}
   - {fileID: 1503855009274956, guid: 0048285dc2f308440a64fd52c235dbb2, type: 2}
+  - {fileID: 1503855009274956, guid: d0146ccae7204534e84b1ff20e77e63b, type: 2}
   goBulletSpawn: {fileID: 1441220394770774}
+  bulletIndex: 0
 --- !u!212 &212126976091919576
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -168,6 +170,7 @@ SpriteRenderer:
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -183,6 +186,7 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5

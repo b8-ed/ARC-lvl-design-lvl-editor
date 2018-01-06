@@ -26,7 +26,7 @@ public class SCR_PlayerController : MonoBehaviour
     private Animator animPlayer;
     private int directionHash;
     private int isDeadHash;
-    private int bulletIndex;
+    public int bulletIndex;
 
 	void Start ()
     {
@@ -45,10 +45,16 @@ public class SCR_PlayerController : MonoBehaviour
 	void Update ()
     {
         if (Input.GetKeyDown(KeyCode.Alpha1))
-            SwitchBulletType(-1);
+            SwitchBulletType(0);
 
         if (Input.GetKeyDown(KeyCode.Alpha2))
             SwitchBulletType(1);
+
+        if (Input.GetKeyDown(KeyCode.Alpha3))
+            SwitchBulletType(2);
+
+        if (Input.GetKeyDown(KeyCode.Alpha4))
+            SwitchBulletType(3);
 
         if (!isDead)
         {
@@ -88,14 +94,16 @@ public class SCR_PlayerController : MonoBehaviour
 
     public void SwitchBulletType(int _arrayDirection)
     {
-        bulletIndex += _arrayDirection;
+        //bulletIndex += _arrayDirection;
 
-        if (bulletIndex > bulletTypeArray.Length - 1)
-            bulletIndex = 0;
-        else if(bulletIndex < 0)
-            bulletIndex = bulletTypeArray.Length - 1;
+        //if (bulletIndex > bulletTypeArray.Length - 1)
+        //    bulletIndex = 0;
+        //else if(bulletIndex < 0)
+        //    bulletIndex = bulletTypeArray.Length - 1;
 
-        TXT_BulletType.text = bulletIndex + "";
+        //TXT_BulletType.text = bulletIndex + "";
+
+        bulletIndex = _arrayDirection;
         coolDown = bulletTypeArray[bulletIndex].GetComponent<SCR_BulletBehaviour>().coolDown;
     }
 

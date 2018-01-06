@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 61016840887075962}
   - component: {fileID: 114280571772182660}
   m_Layer: 0
-  m_Name: PFB_BulletStandard 2
+  m_Name: PFB_BulletStandard 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37,8 +37,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1503855009274956}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.4285, y: 1.9747, z: 0}
-  m_LocalScale: {x: 0.8581167, y: 0.8581167, z: 0.8581167}
+  m_LocalPosition: {x: 1.6009, y: 0.1063, z: 0}
+  m_LocalScale: {x: 1.352145, y: 1.352145, z: 1.352145}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -79,14 +79,14 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.5, y: 0.5}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.82, y: 0.99}
+  m_Size: {x: 0.5, y: 0.5}
   m_EdgeRadius: 0
 --- !u!114 &114280571772182660
 MonoBehaviour:
@@ -100,8 +100,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   yForce: 15
-  damage: 5
-  coolDown: 0.75
+  damage: 10
+  coolDown: 1
 --- !u!212 &212463260016361080
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -136,7 +136,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300184, guid: 4f3d817ad821bc345b488255f0de8318, type: 3}
+  m_Sprite: {fileID: 21300226, guid: 4f3d817ad821bc345b488255f0de8318, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
